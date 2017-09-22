@@ -5,7 +5,7 @@ using UnityEngine;
 public class PlayerMove : MonoBehaviour
 {
 
-    private Animator animator;
+    public Animator animator;
     private Rigidbody rb;
     public float Speed;
     Vector3 LookPos;
@@ -13,7 +13,7 @@ public class PlayerMove : MonoBehaviour
     // Use this for initialization
     void Start()
     {
-        animator = GetComponent<Animator>();
+        //animator = GetComponent<Animator>();
         SetupAnimator();
     }
     
