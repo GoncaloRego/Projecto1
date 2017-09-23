@@ -4,14 +4,14 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 12
-  productGUID: 4ce7408a9c9619943b8f7097b272220d
+  productGUID: e7273d0047dbd4e4ab689be41561020b
   AndroidProfiler: 0
   defaultScreenOrientation: 4
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Projecto1
+  productName: Character
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -508,14 +508,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Projecto1
+  metroPackageName: Character
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: Projecto1
+  metroApplicationDescription: Character
   wsaImages: {}
   metroTileShortName: 
   metroCommandLineArgsFile: 
@@ -590,9 +590,9 @@ PlayerSettings:
     UNet: 1
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  cloudProjectId: 8db47cdb-a8af-4bd2-abd1-3af76ede8812
-  projectName: Projecto1
-  organizationId: goncalorego
+  cloudProjectId: ca12cc66-92b9-4c83-a27d-38ab9c6a15e3
+  projectName: Character
+  organizationId: leo11leo
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
